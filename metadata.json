@@ -1,0 +1,5 @@
+{
+  "name": "Weather AI",
+  "description": "A beautiful weather application that uses Gemini to provide insightful and conversational weather summaries. Enter a city to get the current conditions, a 5-day forecast, and an AI-powered analysis of what the weather means for your day.",
+  "requestFramePermissions": []
+}
